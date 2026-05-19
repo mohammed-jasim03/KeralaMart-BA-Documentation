@@ -44,10 +44,10 @@ This repository contains complete Business Analysis documentation prepared as pa
 ## 📊 Diagrams
 
 ### User Flow Diagram
-![User Flow](Diagrams/User_Flow_Diagram.png)
+![User Flow](KeralaMart_userflowdiagram.png)
 
 ### Use Case Diagram
-![Use Case](Diagrams/Use_Case_Diagram.png)
+![Use Case](KeralaMart_usecasediagram.png)
 
 ---
 
